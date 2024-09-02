@@ -1,0 +1,12 @@
+  ***************** My Grocery List **************
+                                     Est.    Item
+  ---------Item-------  Qnty  Unit  Unit-$   Total
+  Tuna Noodle Dish         2  ea.    10.64  21.28
+  Granny Smith Apples      3  lbs.    0.85   2.55
+  Romaine Lettuce          1  head    4.20   4.20
+  Gerbers Baby Food       12  jars    1.24  14.88
+  Whole Milk               1  qt.     3.89   3.89
+  Chocolate Ice Cream      1  L       6.89   6.89
+  Birthday Cake            1  ea.    38.29  38.29
+                                          -------
+  Grocery Total                             91.98

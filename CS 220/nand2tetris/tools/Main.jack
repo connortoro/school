@@ -1,0 +1,15 @@
+class Main {
+
+    //MAIN FUNCTION
+    function void main() {
+
+        //CREATE GAME OBJECT
+        var SquareGame game;
+        let game = SquareGame.new();
+
+        //RUN GAME
+        do game.run();
+        do game.dispose();
+        return;
+    }
+}

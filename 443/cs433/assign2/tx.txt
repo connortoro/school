@@ -1,0 +1,8 @@
+total 96
+-rwxrwxrwx 1 connor connor   778 Jan 25 11:30 Makefile
+-rwxrwxrwx 1 connor connor   616 Jan 25 11:30 README.md
+-rwxrwxrwx 1 connor connor    23 Feb 22 13:03 in.txt
+-rwxrwxrwx 1 connor connor    56 Feb 22 14:03 out.txt
+-rwxrwxrwx 1 connor connor  7016 Feb 22 21:20 prog.cpp
+-rwxrwxrwx 1 connor connor 41512 Feb 22 21:20 prog.o
+-rwxrwxrwx 1 connor connor 36968 Feb 22 21:20 prog2

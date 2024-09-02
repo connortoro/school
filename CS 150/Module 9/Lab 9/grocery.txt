@@ -1,0 +1,28 @@
+Tuna Noodle Dish
+2
+10.64
+ea.
+Granny Smith Apples
+3
+0.85
+lbs.
+Romaine Lettuce
+1
+4.20
+head
+Gerbers Baby Food
+12
+1.24
+jars
+Whole Milk
+1
+3.89
+qt.
+Chocolate Ice Cream
+1
+6.89
+L
+Birthday Cake
+1
+38.29
+ea.

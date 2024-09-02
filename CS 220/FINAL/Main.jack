@@ -1,0 +1,33 @@
+class Main {
+  
+    //DIVIDE FUNCTION
+    function int divide(int dividend, int divisor) {
+        var int quotient;
+        let quotient = 0;
+
+        while(dividend > divisor) {
+            let dividend = dividend - divisor;
+            let quotient = quotient + 1;
+        }
+
+        if(dividend = divisor) {
+            let quotient = quotient + 1;
+        }
+
+        return quotient;
+    }
+
+    //MAIN
+    function void main() {
+        var int quotient;
+        var int dividend;
+        var int divisor;
+
+        let dividend = 220;
+        let divisor = 27;
+
+        let quotient = Main.divide(dividend, divisor);
+        do Output.printInt(quotient);
+        return;
+    }
+}
