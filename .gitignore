@@ -1,6 +1,5 @@
 *.jpg
 *.jpeg
-*.png
 *.gif
 *.bmp
 *.tiff
@@ -8,3 +7,4 @@
 *.svg
 *.pdf
 *.exe
+*.zip
